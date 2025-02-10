@@ -1,0 +1,59 @@
+{
+	"name": "Better Menus",
+	"description": "Removes advertisements, fade to black transitions, skips intros and card selection. Speeds up stat gains, fixes crimespree loss on crash, automatically equips ICTV armor, and keeps skillsets after infamy reset.",
+	"author": "Biblioklept",
+	"contact": "https://github.com/biblioklept",
+	"version": "1",
+	"blt_version" : 2,
+	"color" : "50 50 50",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/remove_buy_dlc.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/menucomponentmanager",
+			"script_path" : "lua/remove_banner.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/remove_fade_to_black.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/newsfeedgui",
+			"script_path" : "lua/remove_menu_announcements.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/better_fov.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/skilltreeguinew",
+			"script_path" : "lua/auto_equip_ictv.lua"
+		},
+		{
+			"hook_id" : "lib/managers/multiprofilemanager",
+			"script_path" : "lua/keep_assigned_skillsets.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/stageendscreengui",
+			"script_path" : "lua/skip_intro_and_card_select.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/lootdropscreengui",
+			"script_path" : "lua/skip_intro_and_card_select.lua"
+		},
+		{
+			"hook_id" : "lib/states/ingamewaitingforplayers",
+			"script_path" : "lua/skip_intro_and_card_select.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/stageendscreengui",
+			"script_path" : "lua/speed_up_stat_screen.lua"
+		},
+		{
+			"hook_id" : "lib/tweak_data/crimespreetweakdata",
+			"script_path" : "lua/no_crime_spree_loss_on_crash.lua"
+		}
+	]
+}
