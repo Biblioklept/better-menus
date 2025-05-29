@@ -18,6 +18,7 @@ A PAYDAY 2 mod merge that polishes up the User Interface experience.
 ### Quality Of Life Fixes
 - [Automatically Equip ICTV Armor](https://modworkshop.net/mod/35944)
 - [Keep Assigned Skill Sets](https://modworkshop.net/mod/38903)
+- [Always Show Weapon Mod Stats](https://modworkshop.net/mod/39328)
 
 ## Mod Merge Goals
 - Provide a robust, bug-free merge that will work with any setup.
