@@ -2,7 +2,7 @@
 
 A PAYDAY 2 mod merge that polishes up the User Interface experience.
 
-## Mods Included
+## Mods Included - Base
 
 ### Bug Fixes
 - [Stop The Crimespree Loss On Crash](https://modworkshop.net/mod/19568)
@@ -19,6 +19,13 @@ A PAYDAY 2 mod merge that polishes up the User Interface experience.
 - [Automatically Equip ICTV Armor](https://modworkshop.net/mod/35944)
 - [Keep Assigned Skill Sets](https://modworkshop.net/mod/38903)
 - [Always Show Weapon Mod Stats](https://modworkshop.net/mod/39328)
+
+## Mods Included - Lite
+
+### User Interface Fixes
+- [Perfect FOV](https://modworkshop.net/mod/50748)
+- [No More Ads](https://modworkshop.net/mod/34268)
+- [Remove Menu Announcements](https://modworkshop.net/mod/49372)
 
 ## Mod Merge Goals
 - Provide a robust, bug-free merge that will work with any setup.
