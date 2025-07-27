@@ -4,10 +4,7 @@ A PAYDAY 2 mod merge that polishes up the User Interface experience.
 
 ## Mods Included - Base
 
-### Bug Fixes
-- [Stop The Crimespree Loss On Crash](https://modworkshop.net/mod/19568)
-
-### User Interface Fixes
+### User Interface
 - [Perfect FOV](https://modworkshop.net/mod/50748)
 - [No More Ads](https://modworkshop.net/mod/34268)
 - [Remove Menu Announcements](https://modworkshop.net/mod/49372)
@@ -15,14 +12,14 @@ A PAYDAY 2 mod merge that polishes up the User Interface experience.
 - [Skip Blackscreen and Auto-Card Select](https://modworkshop.net/mod/13511)
 - [Stat Screen Speed Up](https://modworkshop.net/mod/37939)
 
-### Quality Of Life Fixes
+### Quality Of Life
 - [Automatically Equip ICTV Armor](https://modworkshop.net/mod/35944)
 - [Keep Assigned Skill Sets](https://modworkshop.net/mod/38903)
 - [Always Show Weapon Mod Stats](https://modworkshop.net/mod/39328)
 
 ## Mods Included - Lite
 
-### User Interface Fixes
+### User Interface
 - [Perfect FOV](https://modworkshop.net/mod/50748)
 - [No More Ads](https://modworkshop.net/mod/34268)
 - [Remove Menu Announcements](https://modworkshop.net/mod/49372)
