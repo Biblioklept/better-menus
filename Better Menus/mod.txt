@@ -3,7 +3,7 @@
 	"description": "Removes advertisements, fade to black transitions, skips intros and card selection. Speeds up stat gains, fixes crimespree loss on crash, automatically equips ICTV armor, and keeps skillsets after infamy reset.",
 	"author": "Biblioklept",
 	"contact": "https://github.com/biblioklept",
-	"version": "1",
+	"version": "2",
 	"blt_version" : 2,
 	"color" : "50 50 50",
 	"hooks" : [
