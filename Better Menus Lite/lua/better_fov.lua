@@ -70,7 +70,7 @@ Hooks:PostHook(MenuOptionInitiator, "modify_video", "PerfectFOVChangeBaseGameSel
         show_value = true,
         min = MINIMUM_FOV,
         max = MAXIMUM_FOV,
-        step = 0.1,
+        step = 1,
         decimal_count = 1
     }
 
