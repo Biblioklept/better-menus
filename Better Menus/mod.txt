@@ -55,4 +55,5 @@
 			"hook_id" : "lib/managers/menu/stageendscreengui",
 			"script_path" : "lua/speed_up_stat_screen.lua"
 		}
+	]
 }
