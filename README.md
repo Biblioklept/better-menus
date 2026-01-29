@@ -5,7 +5,6 @@ A PAYDAY 2 mod merge that polishes up the User Interface experience.
 ## Mods Included - Base
 
 ### User Interface
-- [Perfect FOV](https://modworkshop.net/mod/50748)
 - [No More Ads](https://modworkshop.net/mod/34268)
 - [Remove Menu Announcements](https://modworkshop.net/mod/49372)
 - [No Fade To Black](https://modworkshop.net/mod/17257)
