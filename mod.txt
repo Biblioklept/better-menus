@@ -2,8 +2,8 @@
 	"name": "Better Menus",
 	"description": "Improves the menu experience.",
 	"author": "Biblioklept",
-	"contact": "https://github.com/biblioklept",
-	"version": "3",
+	"contact": "https://github.com/biblioklept/better-menus",
+	"version": "4",
 	"blt_version" : 2,
 	"color" : "50 50 50",
 	"hooks" : [
@@ -34,6 +34,18 @@
 		{
 			"hook_id" : "lib/states/ingamewaitingforplayers",
 			"script_path" : "lua/skip_black_and_loot_screens.lua"
+		},
+		{
+			"hook_id" : "lib/managers/blackmarketmanager",
+			"script_path" : "lua/blackmarketmanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/multiprofilemanager",
+			"script_path" : "lua/multiprofilemanager.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/blackmarketgui",
+			"script_path" : "lua/blackmarketgui.lua"
 		}
 	]
 }
