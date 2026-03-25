@@ -1,0 +1,11 @@
+{
+  "name": "Better Menus",
+  "updates": [
+    {
+      "identifier": "better_menus",
+      "version": "6",
+      "download_url": "https://github.com/Biblioklept/better-menus/releases/download/v6/BetterMenus.zip",
+      "notes": "Auto-update added."
+    }
+  ]
+}
