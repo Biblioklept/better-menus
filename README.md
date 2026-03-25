@@ -8,6 +8,7 @@ A PAYDAY 2 mod merge that polishes up the User Interface experience.
 - [Skip Black Screen and Auto-Card Select](https://modworkshop.net/mod/13511)
 - [Faster Crime.NET Popups](https://modworkshop.net/mod/24823)
 - [Drag and Drop Inventory](https://pd2mods.z77.fr/drag_and_drop_inventory.html)
+- [No Contract Broker Images](https://modworkshop.net/mod/21115)
 
 ## Mod Merge Goals
 - Provide a robust, bug-free merge that will work with any setup.

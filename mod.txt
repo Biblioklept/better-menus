@@ -3,7 +3,7 @@
 	"description": "Improves the menu experience.",
 	"author": "Biblioklept",
 	"contact": "https://github.com/biblioklept/better-menus",
-	"version": "4",
+	"version": "5",
 	"blt_version" : 2,
 	"color" : "50 50 50",
 	"hooks" : [
@@ -46,6 +46,10 @@
 		{
 			"hook_id" : "lib/managers/menu/blackmarketgui",
 			"script_path" : "lua/blackmarketgui.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menu/items/contractbrokerheistitem", 
+			"script_path" : "lua/contractbrokerheistitem.lua"
 		}
 	]
 }
